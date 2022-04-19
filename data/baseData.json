@@ -1,0 +1,121 @@
+{
+    "Engineering and Technical": {
+
+    },
+
+    "Ethics Committee": {
+        "Regular Wear": {
+            "Uniform": {
+                "morphs": [],
+                "shirt": 8609051639,
+                "pants": 5876998131,
+                "hats": []
+            }
+        }
+    },
+
+    "Intelligence Agency": {
+        
+    },
+    
+    "Medical Department": {
+        
+    },
+
+    "Mobile Task Forces": {
+        "Nu-7 Regular Wear": {
+
+        },
+        "Epsilon-11 Regular Wear": {
+
+        },
+        "Beta-7 Regular Wear": {
+
+        },
+        "Alpha-1 Regular Wear": {
+
+        },
+        "HAZMAT Gear": {
+            "Beta-7 HAZMAT Var 1": {
+                "morphs": ["tbm"],
+                "shirt": 6415527920,
+                "pants": 6414962741,
+                "hats": [
+                    6533732599
+                ]
+            },
+            "Generic MTF HAZMAT": {
+                "morphs": ["tbm"],
+                "shirt": 6969689960,
+                "pants": 6969707189,
+                "hats": [
+                    8087415055
+                ]
+            }
+        }
+    },
+
+    "RAISA": {
+        "Regular Wear": {
+            "Agent Uniform": {
+                "morphs": [],
+                "shirt": 6180009325,
+                "pants": 618001295,
+                "hats": []
+            },
+            "HR Uniform": {
+                "morphs": [],
+                "shirt": 5876997105,
+                "pants": 5876998131,
+                "hats": []
+            }
+        }
+    },
+
+    "Scientific Department": {
+        "Regular Wear": {
+            "Generic Director": {
+                "morphs": [],
+                "shirt": 1,
+                "pants": 1,
+                "hats": []
+            }
+        },
+        "HAZMAT Gear": {
+            "Low-Rank HAZMAT 1": {
+                "morphs": ["tua"],
+                "shirt": 6412609149,
+                "pants": 6412610135,
+                "hats": [
+                    6201723189,
+                    8092108455,
+                    4905763116
+                ]
+            },
+            "High-rank HAZMAT 1": {
+                "morphs": ["tua"],
+                "shirt": 6412910857,
+                "pants": 6412756809,
+                "hats": [
+                    6201737341,
+                    8928560917,
+                    4753644287,
+                    4436710326
+                ]
+            }
+        }
+    },
+
+    "Security Department": {
+
+    },
+
+    "STFs": {
+        "Omega-1 Regular Wear": {
+            "morphs": ["tv"],
+            "shirt": 6909076562,
+            "pants": 7281955737,
+            "hats": []
+        }
+    }
+}
